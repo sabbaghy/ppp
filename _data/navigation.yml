@@ -1,0 +1,24 @@
+# main links
+main:
+  - title: "Projects"
+    url: /portfolio/   # es donde se deben de colocar los proyectos
+    
+  # - title: "Publications"
+  #   url: /publications/
+  
+  # - title: "Presentations"
+  #   url: /talks/    # es donde van las presentaciones
+
+  - title: "About"
+    url: /about/
+
+  - title: "CV"
+    url: /cv/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
